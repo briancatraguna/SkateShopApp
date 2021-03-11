@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SkateboardShop</string>
+    <string name="board_brand">Board Brand</string>
+    <string name="price">Price</string>
+    <string name="model">Model</string>
+    <string name="size">Size</string>
+</resources>
